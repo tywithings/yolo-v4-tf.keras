@@ -9,3 +9,5 @@ test_nb
 Icon
 
 yolov4.weights
+.neptune
+path4logdir
